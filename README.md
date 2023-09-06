@@ -1,1 +1,3 @@
-MAnutd na bastard
+# 0x01-git 
+
+My first README
